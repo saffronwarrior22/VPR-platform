@@ -1,0 +1,5 @@
+Find adult patients aged 18-65 with Type 2 Diabetes,
+disease duration of at least 2 years, moderate or severe disease,
+BMI below 35, normal or mild kidney function, normal or mild liver function,
+no recent surgery, no other serious condition, within 50 km of the trial site,
+available for the trial, and consented to contact.
