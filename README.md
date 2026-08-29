@@ -63,9 +63,3 @@ Find adults aged 18-65 with Type 2 Diabetes, disease duration of at least
 function, normal or mild liver function, no recent surgery, no other serious
 condition, within 50 km of the trial site, available for the trial, and
 consented to contact.
-
-## Important
-
-This is a hackathon/research prototype using synthetic-style patient data.
-It is not a medical decision system and should not be used for real clinical
-trial enrollment without clinical, regulatory, privacy, and validation review.
