@@ -1,6 +1,6 @@
 # Virtual Patient Recruitment — Gemini + Rule Engine
 
-Hackathon prototype for:
+Project prototype for:
 "An AI system that helps pharmaceutical companies find suitable patients for clinical trials."
 
 ## Architecture
